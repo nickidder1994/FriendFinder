@@ -1,0 +1,35 @@
+#name-container {
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-block-end: 20px;
+    background-color:  whitesmoke;
+}
+
+;
+
+#q-container {
+    margin-top: 20px;
+    margin-left: 100px;
+    padding-block-end: 20px;
+    background-color:whitesmoke;
+}
+
+h2 {
+    margin-left: 100px;
+    padding-block-end: 20px;
+    margin-top: 20px;
+
+
+}
+
+p {
+    margin-left: 150px;
+    margin-top: 10px;
+}
+
+#options {
+    margin-left: 150px;
+    
+   
+}
