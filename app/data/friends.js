@@ -14,3 +14,4 @@ var friendSurvey = {
     1
   ]
 }
+// Add up the current users score compared to others and fiend a match
